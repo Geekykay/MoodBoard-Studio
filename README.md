@@ -1,4 +1,4 @@
-# MoodBoard: A Personal Inspiration Curator
+# MoodBoard: A Personal Inspiration Curator Showcasing Object-Oriented Programming (00P)
 
 ## 🌟 Overview
 MoodBoard is a Python project that lets you create and explore themed inspiration boards. Whether you're into African fashion, interior design, or literature, this tool helps you organize your creative ideas using Object-Oriented Programming principles.
